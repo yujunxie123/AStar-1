@@ -1,0 +1,4 @@
+We are discoving how to use data types and algorithms.
+We are learning how to incorporate objects.
+We are learning 2D Arrays.
+We are learning how to collaborate.
